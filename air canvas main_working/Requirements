@@ -1,0 +1,6 @@
+requirements
+
+mediapipe
+opencv
+tkinter
+pypdf
