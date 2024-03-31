@@ -1,6 +1,21 @@
-requirements
+To run the provided code and install the necessary libraries, follow these steps:
 
-mediapipe
-opencv
-tkinter
-pypdf
+Open your command prompt or terminal.
+
+Install the required libraries using the following command:
+
+pip install opencv-python mediapipe numpy PyMuPDF pillow
+
+Ensure that Tkinter is installed. It usually comes pre-installed with Python, but if not, you may need to install it separately using your package manager or directly from source.
+
+Navigate to the directory where your Python script (your_script.py) is located using the cd command:
+
+cd path/to/your/directory
+
+Run your Python script using the following command:
+
+python main.py
+
+
+
+
